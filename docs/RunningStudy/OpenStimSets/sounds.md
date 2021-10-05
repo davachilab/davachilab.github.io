@@ -1,3 +1,3 @@
-# Computing
+# Sound Stimuli
 
 source: `{{ page.path }}`

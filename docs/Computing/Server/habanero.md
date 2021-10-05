@@ -1,3 +1,3 @@
-# Computing
+# Habanero
 
 source: `{{ page.path }}`

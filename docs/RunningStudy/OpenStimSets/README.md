@@ -1,3 +1,3 @@
-# Computing
+# Open Stimuli Sets
 
 source: `{{ page.path }}`

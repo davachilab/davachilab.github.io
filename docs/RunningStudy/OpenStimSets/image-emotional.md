@@ -1,3 +1,3 @@
-# Computing
+# Emotional Images
 
 source: `{{ page.path }}`

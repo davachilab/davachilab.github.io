@@ -1,3 +1,3 @@
-# Computing
+# Other Stimuli
 
 source: `{{ page.path }}`

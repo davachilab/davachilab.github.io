@@ -1,3 +1,3 @@
-# Computing
+# Servers
 
 source: `{{ page.path }}`

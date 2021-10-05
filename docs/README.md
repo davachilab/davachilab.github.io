@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Docs folder
+# Table of Contents
 
 {% include list.liquid all=true %}

@@ -1,3 +1,3 @@
-# Computing
+# Scene Stimuli
 
 source: `{{ page.path }}`
