@@ -34,7 +34,6 @@ git clone https://github.com/davachilab/davachilab.github.io.git
       ```
 
 
----
 ## Edit on GitHub
 **You can create and edit files directly on GitHub, but you cannot create folders**
 1. Navigate to directory/file of interest under [davachilab.github.io/docs](https://github.com/davachilab/davachilab.github.io/tree/master/docs)
